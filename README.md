@@ -88,8 +88,8 @@ He resuelto máquinas de plataformas como **TryHackMe** y **DockerLabs**, escrib
 
 - [🌍 Página personal](https://d4nyed.github.io/whoami/index.html)
 - [🔗 LinkedIn](https://www.linkedin.com/in/D4NYED/)
-- [🐦 Twitter](https://twitter.com/D4NYED) *(si lo tienes)*
-- [🔍 TryHackMe](https://tryhackme.com/p/D4NYED)
+- [🐦 Twitter](https://twitter.com/D4NYED) 
+- [🔍 TryHackMe](https://tryhackme.com/p/D4NY3D)
 
 ---
 
