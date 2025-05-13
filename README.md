@@ -86,12 +86,15 @@ He resuelto máquinas de plataformas como **TryHackMe** y **DockerLabs**, escrib
 
 ## 🌐 Encuéntrame también en:
 
-- [🌍 Página personal](https://d4nyed.github.io/whoami/index.html)
-- [🔗 LinkedIn](https://www.linkedin.com/in/D4NYED/)
-- [🐦 Twitter](https://twitter.com/D4NYED) 
-- [🔍 TryHackMe](https://tryhackme.com/p/D4NY3D)
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/D4NY3D.png)
----
+## 🌐 Encuéntrame en:
+
+[![Página personal](https://img.shields.io/badge/🌍%20Página%20personal-000?style=for-the-badge)](https://d4nyed.github.io/whoami/index.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/D4NYED/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/D4NYED)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?logo=tryhackme&logoColor=white&style=for-the-badge)](https://tryhackme.com/p/D4NY3D)
+
+![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/D4NY3D.png)
+
 
 > "La mejor forma de aprender es enseñar."  
 > — Daniel Espinosa
