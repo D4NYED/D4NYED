@@ -90,7 +90,7 @@ He resuelto máquinas de plataformas como **TryHackMe** y **DockerLabs**, escrib
 - [🔗 LinkedIn](https://www.linkedin.com/in/D4NYED/)
 - [🐦 Twitter](https://twitter.com/D4NYED) 
 - [🔍 TryHackMe](https://tryhackme.com/p/D4NY3D)
-
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/D4NY3D.png)
 ---
 
 > "La mejor forma de aprender es enseñar."  
